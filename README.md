@@ -1,7 +1,7 @@
 # AI Chatbot Powered by Google Gemini  
 A cutting-edge AI chatbot built with JavaScript, HTML, and CSS, leveraging Google Gemini's advanced language understanding and generative capabilities to deliver meaningful and intelligent conversations.
 
-<a href="https://bashayerrr.github.io/AI-Chatbot/">View Here</a><br>
+<a href="https://bashayerrr.github.io/AI-Chatbot/">View It Here</a><br><br>
 <img src="chatbot-img.png">
 ## Features
 - Powered by Google Gemini for state-of-the-art AI responses.
